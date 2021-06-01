@@ -3,7 +3,7 @@ import './App.css';
 import Display from './component/Display'
 import Footer from './component/Footer'
 import Button from './component/Button'
-import profileImg from './component/image(133).png'
+import profileImg from './component/image.png'
 
 function App() {
 
